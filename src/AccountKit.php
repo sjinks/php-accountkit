@@ -17,7 +17,7 @@ class AccountKit
     /**
      * @var string
      */
-    private $apiver = 'v1.2';
+    private $apiver = 'v1.3';
 
     public function __construct($appid, string $secret)
     {
